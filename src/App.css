@@ -1,0 +1,47 @@
+.todos{
+    max-width: 450px;
+    margin:0 auto;
+    box-shadow: 0 0 10px #f5adc5;
+    padding:10px;
+    text-align: center;
+}
+
+.mytodolisth1{
+    color:#f5adc5;
+
+}
+
+.form{
+    display: flex;
+    margin: 10px 0;
+    justify-content: center;
+}
+
+.input{
+    width:60%;
+}
+
+.css-9cl4l0-MuiButtonBase-root-MuiCheckbox-root.Mui-checked, .css-9cl4l0-MuiButtonBase-root-MuiCheckbox-root.MuiCheckbox-indeterminate *{
+     color: #c92a5f; 
+}
+
+*{
+font-family: 'Annie Use Your Telescope', cursive;
+}
+
+
+.MuiOutlinedInput-notchedOutline {
+    border-color: #f5adc5 !important;
+  }
+  
+  .MuiFilledInput-root {
+    border-bottom: 1px solid #f5adc5 !important;
+  }
+  
+  .MuiInput-root {
+    border-bottom: 1px solid #f5adc5 !important;
+  }
+
+  .MuiInputLabel-root {
+    color: #f5adc5 !important;
+  }
